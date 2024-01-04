@@ -1,0 +1,12 @@
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\Projects\MicroServices\Ecommerce-MicroServices\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll

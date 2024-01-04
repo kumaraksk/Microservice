@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "HH09yS6cBWrwKL9TuNMmRT7537GI19JTK8+s66TgmQE=",
+  "Source": "Ecommerce-Services",
+  "BasePath": "_content/Ecommerce-Services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Projects\\MicroServices\\Ecommerce-MicroServices\\AuthService\\AuthService.csproj",
+      "Version": 2,
+      "Source": "AuthService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
